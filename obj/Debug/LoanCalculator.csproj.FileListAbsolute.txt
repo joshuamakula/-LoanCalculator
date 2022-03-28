@@ -1,0 +1,11 @@
+C:\Users\ign\Documents\workspace\LoanCalculator\bin\Debug\LoanCalculator.exe.config
+C:\Users\ign\Documents\workspace\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Users\ign\Documents\workspace\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.csproj.AssemblyReference.cache
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.Form1.resources
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.Properties.Resources.resources
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.csproj.GenerateResource.cache
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.exe
+C:\Users\ign\Documents\workspace\LoanCalculator\obj\Debug\LoanCalculator.pdb
